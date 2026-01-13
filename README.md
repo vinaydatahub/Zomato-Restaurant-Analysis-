@@ -1,4 +1,5 @@
 🍽️ Zomato Data Analysis Project
+
 📌 Project Overview
 
 This project presents an end-to-end data analysis of Zomato sales and restaurant data to uncover meaningful business insights. The analysis focuses on customer behavior, sales performance, restaurant trends, and key performance indicators (KPIs) using industry-standard analytics tools.
@@ -7,54 +8,63 @@ The project simulates a real-world data analyst workflow, from raw data cleaning
 
 🎯 Objectives
 
-Analyze Zomato sales and customer data to identify trends
+• Analyze Zomato sales and customer data to identify trends
 
-Track business KPIs such as revenue, orders, and customer frequency
+• Track business KPIs such as revenue, orders, and customer frequency
 
-Understand customer preferences and ordering behavior
+• Understand customer preferences and ordering behavior
 
-Build interactive dashboards for decision-making
+• Build interactive dashboards for decision-making
 
-Practice real-time tools used by data analysts
+• Practice real-time tools used by data analysts
 
 🛠️ Tools & Technologies Used
 
-Microsoft Excel – Data cleaning, preprocessing, and basic analysis
+• Microsoft Excel – Data cleaning, preprocessing, and basic analysis
 
-SQL – Data extraction, joins, aggregations, and KPI calculations
+• SQL – Data extraction, joins, aggregations, and KPI calculations
 
-Power BI – Interactive dashboards and visual analytics
+• Power BI – Interactive dashboards and visual analytics
 
-Tableau – Advanced data visualization and storytelling
+• Tableau – Advanced data visualization and storytelling
 
-GitHub – Version control and project documentation
+• GitHub – Version control and project documentation
 
 📂 Project Files Structure
+
 📁 Zomato-Data-Analysis
-│
+
+
 ├── 📊 Zomato_Sales_Analysis.xlsx        # Cleaned dataset & Excel analysis
+
 ├── 🛢️ Zomato_SQL_Analysis.sql            # SQL queries for KPIs & insights
+
 ├── 📄 zomato SQL results.docx           # SQL query outputs
+
+
 ├── 📈 Zomato_PowerBI_dashboard.pbix     # Power BI interactive dashboard
+
 ├── 📊 Zomato_Tableau_Analysis.twbx      # Tableau dashboard
+
 ├── 📑 zomato_Final_ppt.pptx             # Project presentation
+
 └── 📘 README.md                         # Project documentation
 
 📊 Key KPIs Analyzed
 
-Total Revenue
+• Total Revenue
 
-Total Orders
+• Total Orders
 
-Average Order Value
+• Average Order Value
 
-Customer Order Frequency
+• Customer Order Frequency
 
-Top Performing Restaurants
+• Top Performing Restaurants
 
-Popular Food Categories
+• Popular Food Categories
 
-Monthly & Daily Sales Trends
+• Monthly & Daily Sales Trends
 
 🔍 SQL Analysis Highlights
 
